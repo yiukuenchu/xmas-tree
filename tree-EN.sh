@@ -34,6 +34,7 @@ let new_year++
 tput setaf 1; tput bold
 tput cup $lin $((c - 6)); echo MERRY CHRISTMAS
 tput cup $((lin + 1)) $((c - 10)); echo And lots of CODE in $new_year
+tput cup $((lin + 3)) $((c - 4)); echo Yiu Kuen Chu
 let c++
 k=1
 
