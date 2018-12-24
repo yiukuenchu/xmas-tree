@@ -21,9 +21,9 @@ wget -qO- https://raw.githubusercontent.com/yiukuenchu/xmas-tree/master/tree-EN.
 
 ```
 git clone https://github.com/yiukuenchu/xmas-tree.git && cd ./xmas-tree && bash tree-EN.sh 
-```
+``` 
 
-* 享受打造你的圣诞树的乐趣吧！ *
+## And feel the Christmas!🎅
 
 
 ## Warning
