@@ -23,7 +23,7 @@ wget -qO- https://raw.githubusercontent.com/yiukuenchu/xmas-tree/master/tree-EN.
 git clone https://github.com/yiukuenchu/xmas-tree.git && cd ./xmas-tree && bash tree-EN.sh 
 ``` 
 
-## And feel the Christmas!🎅
+## 然后，Feel the Christmas!🎅
 
 
 ## Warning
