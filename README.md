@@ -1,68 +1,34 @@
-# ChristBASHTree
-
-You know, a Christmas tree on Bash :)
+# Decorate your teminal with this 🎄!
 
 ![Screenshot](./screenshot.png?raw=true)
 
-# Usage
+## Usage
 
-Via cURL:
-
-```
-# English version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
-
-# Spanish version
-curl https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
-```
-
-Via Wget:
+1.使用cURL:
 
 ```
-# English version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh | bash
-
-# Spanish version
-wget -qO- https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-ES.sh | bash
+curl https://raw.githubusercontent.com/yiukuenchu/xmas-tree/master/tree-EN.sh | bash
 ```
 
-Docker:
+2.使用Wget:
 
 ```
-docker pull sergiolepore/christbashtree:latest
-docker run -it sergiolepore/christbashtree:latest
+wget -qO- https://raw.githubusercontent.com/yiukuenchu/xmas-tree/master/tree-EN.sh | bash
 ```
 
-Git clone and execute:
+
+3.使用Git clone执行:
 
 ```
-git clone https://github.com/sergiolepore/ChristBASHTree.git && cd ./ChristBASHTree && bash tree-EN.sh
+git clone https://github.com/yiukuenchu/xmas-tree.git && cd ./xmas-tree && bash tree-EN.sh 
 ```
 
-__Enjoy!__
+* 享受打造你的圣诞树的乐趣吧！ *
 
-# FAQ
 
-## License?
+## Warning
+只适合用于Linux和Unix.
 
-[Do what you want with it](./LICENSE) license.
+## License
 
-## Will it run under _whatever-OS_?
-
-Only GNU/Linux and Unix flavors.
-
-## What OS are you using?
-
-Ubuntu 17.10.
-
-## What about your terminal emulator?
-
-[Tilix](https://gnunn1.github.io/tilix-web/)
-
-## And your color palette?
-
-Custom, based on Atom's "One Dark" theme.
-
-## Contributors
-
-[Here](https://github.com/sergiolepore/ChristBASHTree/graphs/contributors)
+Check out in [LICENSE](./LICENSE)
